@@ -1,0 +1,136 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ already exists and “Replace files that already exist” is off." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@はすでに存在し、「既存のファイルを上書き」がオフになっています。"
+          }
+        }
+      }
+    },
+    "%@ has no Aozora text to convert." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@には変換できる青空文庫のテキストがありません。"
+          }
+        }
+      }
+    },
+    "%@ isn't a format this app converts (txt, txtz, zip, cbz, rar)." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@は変換できない形式です（対応：txt、txtz、zip、cbz、rar）。"
+          }
+        }
+      }
+    },
+    "%@ isn't a supported site. Web novels work from: %@. For Aozora Bunko, use a work's card page (図書カード) or its .zip link." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@は対応していないサイトです。Web小説の対応サイト：%2$@。青空文庫の場合は、作品の図書カードのページか.zipのリンクを使ってください。"
+          }
+        }
+      }
+    },
+    "Canceled." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセルしました。"
+          }
+        }
+      }
+    },
+    "Couldn't download %@: %@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@をダウンロードできませんでした：%2$@"
+          }
+        }
+      }
+    },
+    "Couldn't find a text download on %@. Open the work's card page (図書カード, the page with “ファイルのダウンロード”) and use that link." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@にテキストのダウンロードが見つかりません。作品の図書カード（「ファイルのダウンロード」があるページ）を開いて、そのリンクを使ってください。"
+          }
+        }
+      }
+    },
+    "Kobo EPUB (.kepub.epub)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kobo用EPUB（.kepub.epub）"
+          }
+        }
+      }
+    },
+    "Kobo fixed-layout EPUB" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kobo用固定レイアウトEPUB"
+          }
+        }
+      }
+    },
+    "The page didn't contain a title or chapter list the site definition could read." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイト定義で読み取れるタイトルや目次がページにありませんでした。"
+          }
+        }
+      }
+    },
+    "This preset makes .mobi files, which need Amazon's kindlegen, and it isn't installed. Switch to EPUB (Kindle accepts EPUB through Send to Kindle), or install Kindle Previewer, which includes kindlegen." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このプリセットは.mobiを出力しますが、それに必要なAmazonのkindlegenがインストールされていません。EPUBに切り替えるか（Send to KindleはEPUBに対応しています）、kindlegenが付属するKindle Previewerをインストールしてください。"
+          }
+        }
+      }
+    },
+    "kindlegen failed: %@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kindlegenが失敗しました：%@"
+          }
+        }
+      }
+    },
+    "“%@” isn't a web address." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」はWebアドレスではありません。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

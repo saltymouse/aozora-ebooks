@@ -1,0 +1,3434 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
+    "%" : {
+      "shouldTranslate" : false
+    },
+    "% brightness" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%以上"
+          }
+        }
+      }
+    },
+    "%@, %@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@、%2$@"
+          }
+        }
+      }
+    },
+    "%@: couldn't convert" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@：変換できませんでした"
+          }
+        }
+      }
+    },
+    "%@: skipped" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@：スキップ"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "shouldTranslate" : false
+    },
+    "%lld empty lines" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld行の空行"
+          }
+        }
+      }
+    },
+    "%lld of %lld" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$lld件中 %1$lld件"
+          }
+        }
+      }
+    },
+    "%lld%%" : {
+      "shouldTranslate" : false
+    },
+    "(30–100)" : {
+      "shouldTranslate" : false
+    },
+    ".epub" : {
+      "shouldTranslate" : false
+    },
+    ".fxl.kepub.epub (Kobo fixed layout)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".fxl.kepub.epub（Kobo固定レイアウト）"
+          }
+        }
+      }
+    },
+    ".kepub.epub (Kobo)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".kepub.epub（Kobo）"
+          }
+        }
+      }
+    },
+    ".mobi (needs kindlegen)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".mobi（kindlegenが必要）"
+          }
+        }
+      }
+    },
+    ".mobi + .epub (needs kindlegen)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".mobi + .epub（kindlegenが必要）"
+          }
+        }
+      }
+    },
+    ".mobi needs Amazon's kindlegen, which isn't installed (it comes with Kindle Previewer). Kindle reads EPUB too: send it with Send to Kindle. The preset's screen and layout settings are kept." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".mobiの作成にはAmazonのkindlegenが必要ですが、インストールされていません（Kindle Previewerに付属しています）。KindleはEPUBも読めるので、Send to Kindleで送信できます。プリセットの画面サイズとレイアウト設定はそのまま使われます。"
+          }
+        }
+      }
+    },
+    "A book needs a title" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトルを入力してください"
+          }
+        }
+      }
+    },
+    "A bracketed number followed by a heading" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "括弧内の数字＋見出し"
+          }
+        }
+      }
+    },
+    "A number followed by a heading" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数字＋見出し"
+          }
+        }
+      }
+    },
+    "A number in brackets （一）〈二〉【三】" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "括弧内の数字 （一）〈二〉【三】"
+          }
+        }
+      }
+    },
+    "A simple cover with the title and author in vertical type" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトルと著者を縦書きにしたシンプルな表紙"
+          }
+        }
+      }
+    },
+    "A specific image…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像を指定…"
+          }
+        }
+      }
+    },
+    "Activity" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクティビティ"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加"
+          }
+        }
+      }
+    },
+    "Add Files…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルを追加…"
+          }
+        }
+      }
+    },
+    "Add bookmark IDs to every line (Kobo)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての行にしおり用IDを付ける（Kobo）"
+          }
+        }
+      }
+    },
+    "Adjust darkness (gamma)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "濃さを調整（ガンマ）"
+          }
+        }
+      }
+    },
+    "After page breaks" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "改ページ後"
+          }
+        }
+      }
+    },
+    "All" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべて"
+          }
+        }
+      }
+    },
+    "All Books" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての本"
+          }
+        }
+      }
+    },
+    "Annotations" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注記"
+          }
+        }
+      }
+    },
+    "Aozora Bunko text (.txt, .zip), comics (.cbz, .rar), or a web novel link from Syosetu, Kakuyomu and friends." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青空文庫のテキスト（.txt、.zip）、コミック（.cbz、.rar）、または小説家になろう・カクヨムなどのWeb小説のリンク。"
+          }
+        }
+      }
+    },
+    "Aozora Ebooks" : {
+      "shouldTranslate" : false
+    },
+    "AozoraEpub3 compatibility" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AozoraEpub3との互換性"
+          }
+        }
+      }
+    },
+    "App" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリ"
+          }
+        }
+      }
+    },
+    "At least" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最小"
+          }
+        }
+      }
+    },
+    "At most" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大"
+          }
+        }
+      }
+    },
+    "At the bottom" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下"
+          }
+        }
+      }
+    },
+    "At the top" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上"
+          }
+        }
+      }
+    },
+    "Author" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "著者"
+          }
+        }
+      }
+    },
+    "Author, then title" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "著者名 → 表題"
+          }
+        }
+      }
+    },
+    "Be kind to the sites: 0.5 seconds is the minimum." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイトに負担をかけないよう、最短でも0.5秒あけてください。"
+          }
+        }
+      }
+    },
+    "Bind Book" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "製本する"
+          }
+        }
+      }
+    },
+    "Binding… %lld%%" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "製本中… %lld%%"
+          }
+        }
+      }
+    },
+    "Book" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本"
+          }
+        }
+      }
+    },
+    "Bottom" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下"
+          }
+        }
+      }
+    },
+    "Bottom / right" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下／右"
+          }
+        }
+      }
+    },
+    "Cache" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャッシュ"
+          }
+        }
+      }
+    },
+    "Centered page" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中央寄せページ"
+          }
+        }
+      }
+    },
+    "Change…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更…"
+          }
+        }
+      }
+    },
+    "Chapter names (第〜章, 序, プロローグ…)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "章番号（第〜章、序、プロローグ…）"
+          }
+        }
+      }
+    },
+    "Chapter names: 第〜章, その〜, 序, プロローグ…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "章番号：第〜章、その〜、序、プロローグ…"
+          }
+        }
+      }
+    },
+    "Character substitutions" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字の置換"
+          }
+        }
+      }
+    },
+    "Characters" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字"
+          }
+        }
+      }
+    },
+    "Check the title, cover and table of contents before each book" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本ごとにタイトル、表紙、目次を確認します"
+          }
+        }
+      }
+    },
+    "Choose Aozora Bunko texts, archives or folders" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青空文庫のテキスト、アーカイブ、フォルダを選択してください"
+          }
+        }
+      }
+    },
+    "Choose Files…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルを選択…"
+          }
+        }
+      }
+    },
+    "Choose Folder…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダを選択…"
+          }
+        }
+      }
+    },
+    "Choose the reader you'll read on: screen size, file type and layout follow" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読む端末を選ぶと、画面サイズ・ファイル形式・レイアウトが合わせて設定されます"
+          }
+        }
+      }
+    },
+    "Choose…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択…"
+          }
+        }
+      }
+    },
+    "Classic (AozoraEpub3 presets)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クラシック（AozoraEpub3のプリセット）"
+          }
+        }
+      }
+    },
+    "Clear Done" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完了した本を片付ける"
+          }
+        }
+      }
+    },
+    "Clear Finished Books" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完了した本を片付ける"
+          }
+        }
+      }
+    },
+    "Contents" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目次"
+          }
+        }
+      }
+    },
+    "Contents page direction" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目次ページの向き"
+          }
+        }
+      }
+    },
+    "Convert Again" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もう一度変換"
+          }
+        }
+      }
+    },
+    "Convert annotations inside comments" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コメント内の注記も変換"
+          }
+        }
+      }
+    },
+    "Copy All" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてコピー"
+          }
+        }
+      }
+    },
+    "Copy Path" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスをコピー"
+          }
+        }
+      }
+    },
+    "Couldn't convert" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変換できませんでした"
+          }
+        }
+      }
+    },
+    "Couldn't convert “%@”" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」を変換できませんでした"
+          }
+        }
+      }
+    },
+    "Couldn't convert: click ⚠" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変換できませんでした：⚠をクリック"
+          }
+        }
+      }
+    },
+    "Count as white above" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白とみなす明るさ"
+          }
+        }
+      }
+    },
+    "Count chapters fetched within" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新着とみなす期間"
+          }
+        }
+      }
+    },
+    "Cover" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表紙"
+          }
+        }
+      }
+    },
+    "Cover image" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表紙画像"
+          }
+        }
+      }
+    },
+    "Cover page" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表紙ページ"
+          }
+        }
+      }
+    },
+    "Cover size" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表紙サイズ"
+          }
+        }
+      }
+    },
+    "Custom" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カスタム"
+          }
+        }
+      }
+    },
+    "Devices" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端末"
+          }
+        }
+      }
+    },
+    "Don't Convert" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変換しない"
+          }
+        }
+      }
+    },
+    "Don't rotate" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回転しない"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完了"
+          }
+        }
+      }
+    },
+    "Downloading" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダウンロード"
+          }
+        }
+      }
+    },
+    "Downloading…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダウンロード中…"
+          }
+        }
+      }
+    },
+    "Drag to move, pinch or use the slider to zoom. Drop an image to use it as the cover." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ドラッグで移動、ピンチかスライダーで拡大縮小。画像をドロップすると表紙になります。"
+          }
+        }
+      }
+    },
+    "Drop a book here" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここに本をドロップ"
+          }
+        }
+      }
+    },
+    "Drop a book to get started." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本をドロップして始めましょう。"
+          }
+        }
+      }
+    },
+    "Enlarge small full-page images" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小さい単ページ画像を拡大"
+          }
+        }
+      }
+    },
+    "Examples" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例"
+          }
+        }
+      }
+    },
+    "Export .ini…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".iniを書き出す…"
+          }
+        }
+      }
+    },
+    "File type" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル形式"
+          }
+        }
+      }
+    },
+    "Fill" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全面"
+          }
+        }
+      }
+    },
+    "Find headings from" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見出しの抽出"
+          }
+        }
+      }
+    },
+    "Fine-Tune Settings…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細設定…"
+          }
+        }
+      }
+    },
+    "First illustration" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最初の挿絵"
+          }
+        }
+      }
+    },
+    "Fit" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全体"
+          }
+        }
+      }
+    },
+    "Fit to screen shape" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画面の縦横比に合わせる"
+          }
+        }
+      }
+    },
+    "Fixed-layout SVG pages (image-only books)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVGの固定レイアウト（画像のみの本）"
+          }
+        }
+      }
+    },
+    "Float full-page images (Sony Reader)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "単ページ画像をフロート表示（Sony Reader）"
+          }
+        }
+      }
+    },
+    "Float other images (Sony Reader)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その他の画像をフロート表示（Sony Reader）"
+          }
+        }
+      }
+    },
+    "Folder" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ"
+          }
+        }
+      }
+    },
+    "Font size" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字サイズ"
+          }
+        }
+      }
+    },
+    "Full-page image size" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "単ページ画像のサイズ"
+          }
+        }
+      }
+    },
+    "Full-width spaces at line ends" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "行末の全角スペース"
+          }
+        }
+      }
+    },
+    "Gamma (0.2 dark – 1.8 light)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ガンマ（0.2 濃い – 1.8 薄い）"
+          }
+        }
+      }
+    },
+    "General" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
+          }
+        }
+      }
+    },
+    "Heading" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見出し"
+          }
+        }
+      }
+    },
+    "Height" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高さ"
+          }
+        }
+      }
+    },
+    "Hide" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示しない"
+          }
+        }
+      }
+    },
+    "Hide (Kobo, Kindle)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非表示にする（Kobo、Kindle）"
+          }
+        }
+      }
+    },
+    "Hmm" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あれ？"
+          }
+        }
+      }
+    },
+    "Horizontal" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "横書き"
+          }
+        }
+      }
+    },
+    "Horizontal page" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "横書きページ"
+          }
+        }
+      }
+    },
+    "Horizontal text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "横書き"
+          }
+        }
+      }
+    },
+    "Horizontal text (yokogaki). Click for vertical." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "横書き。クリックで縦書きにします。"
+          }
+        }
+      }
+    },
+    "Horizontal 横書き" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "横書き"
+          }
+        }
+      }
+    },
+    "How many" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "話数"
+          }
+        }
+      }
+    },
+    "Illustrations" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "挿絵"
+          }
+        }
+      }
+    },
+    "Image" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像"
+          }
+        }
+      }
+    },
+    "Image with the same name as the text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テキストと同じ名前の画像"
+          }
+        }
+      }
+    },
+    "Images" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像"
+          }
+        }
+      }
+    },
+    "Images up to" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "対象の画像サイズ"
+          }
+        }
+      }
+    },
+    "Image…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像…"
+          }
+        }
+      }
+    },
+    "Import .ini…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".iniを読み込む…"
+          }
+        }
+      }
+    },
+    "In a folder" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指定フォルダ"
+          }
+        }
+      }
+    },
+    "Include comment blocks (between ----- lines)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コメントブロック（-----で囲まれた部分）を出力"
+          }
+        }
+      }
+    },
+    "Include the cover" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表紙を含める"
+          }
+        }
+      }
+    },
+    "Include the title" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表題を含める"
+          }
+        }
+      }
+    },
+    "Indent paragraphs that don't start with a bracket" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "括弧で始まらない段落を字下げ"
+          }
+        }
+      }
+    },
+    "JPEG quality" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JPEG画質"
+          }
+        }
+      }
+    },
+    "Join a heading with the line after it" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見出しと次の行をつなげる"
+          }
+        }
+      }
+    },
+    "KB" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KB"
+          }
+        }
+      }
+    },
+    "Kana with combining (han)dakuten" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "濁点・半濁点の付いた仮名"
+          }
+        }
+      }
+    },
+    "Keep the original illustration in the book" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元の挿絵も本に残す"
+          }
+        }
+      }
+    },
+    "Keep variation selectors for kanji (U+E0100–E01EF)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "漢字の異体字セレクタを残す（U+E0100–E01EF）"
+          }
+        }
+      }
+    },
+    "Keep variation selectors for symbols (U+FE00–FE0E)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記号の異体字セレクタを残す（U+FE00–FE0E）"
+          }
+        }
+      }
+    },
+    "Kind" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "種類"
+          }
+        }
+      }
+    },
+    "Kobo and Kindle don't support variation selectors." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KoboとKindleは異体字セレクタに対応していません。"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "言語"
+          }
+        }
+      }
+    },
+    "Leave as is" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "そのまま"
+          }
+        }
+      }
+    },
+    "Leave out illustrations (keep the cover and gaiji images)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "挿絵を除外（表紙と外字画像は残す）"
+          }
+        }
+      }
+    },
+    "Left" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左"
+          }
+        }
+      }
+    },
+    "Let text wrap around small images" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小さい画像に文字を回り込ませる"
+          }
+        }
+      }
+    },
+    "Let the reader decide" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端末に任せる"
+          }
+        }
+      }
+    },
+    "Line" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "行"
+          }
+        }
+      }
+    },
+    "Line height" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "行の高さ"
+          }
+        }
+      }
+    },
+    "Lines matching a pattern" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターンに一致する行"
+          }
+        }
+      }
+    },
+    "Lines that are just a number" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数字のみの行"
+          }
+        }
+      }
+    },
+    "Longest heading" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見出しの最大長"
+          }
+        }
+      }
+    },
+    "MOBI via kindlegen" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kindlegenでMOBIを作成"
+          }
+        }
+      }
+    },
+    "MOBI: needs kindlegen (not installed)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOBI：kindlegenが必要（未インストール）"
+          }
+        }
+      }
+    },
+    "Make EPUB Instead" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代わりにEPUBを作成"
+          }
+        }
+      }
+    },
+    "Make One" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作成"
+          }
+        }
+      }
+    },
+    "Makes %@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出力：%@"
+          }
+        }
+      }
+    },
+    "Max height" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大高さ"
+          }
+        }
+      }
+    },
+    "Max width" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大幅"
+          }
+        }
+      }
+    },
+    "My Profiles" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マイプロファイル"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前"
+          }
+        }
+      }
+    },
+    "Name files after the book: “[Author] Title.epub”" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名を本に合わせる：「[著者] タイトル.epub」"
+          }
+        }
+      }
+    },
+    "Nest the contents page" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目次ページを階層化"
+          }
+        }
+      }
+    },
+    "Nest the reader's contents menu (toc.ncx)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リーダーの目次メニューを階層化（toc.ncx）"
+          }
+        }
+      }
+    },
+    "Next to original" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元のファイルと同じ場所"
+          }
+        }
+      }
+    },
+    "Next to the Original" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元のファイルと同じ場所"
+          }
+        }
+      }
+    },
+    "Next to the original file" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元のファイルと同じ場所"
+          }
+        }
+      }
+    },
+    "No" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "しない"
+          }
+        }
+      }
+    },
+    "No cover" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表紙なし"
+          }
+        }
+      }
+    },
+    "No details." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細はありません。"
+          }
+        }
+      }
+    },
+    "No limit" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "制限なし"
+          }
+        }
+      }
+    },
+    "No other problems" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ほかに問題はありません"
+          }
+        }
+      }
+    },
+    "No title lines" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なし"
+          }
+        }
+      }
+    },
+    "None" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なし"
+          }
+        }
+      }
+    },
+    "None chosen" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未選択"
+          }
+        }
+      }
+    },
+    "Not converted: .mobi needs kindlegen, which isn't installed." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変換しませんでした：.mobiにはkindlegenが必要ですが、インストールされていません。"
+          }
+        }
+      }
+    },
+    "Notes about annotations the converter couldn't handle show up here." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変換できなかった注記などのメモがここに表示されます。"
+          }
+        }
+      }
+    },
+    "Nothing new to download since last time (see Settings ▸ Web ▸ Updates)." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前回から新しい更新はありません（設定 ▸ Web ▸ 更新 を参照）。"
+          }
+        }
+      }
+    },
+    "Nothing to convert in this file." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このファイルには変換できる内容がありません。"
+          }
+        }
+      }
+    },
+    "Nothing yet" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ何もありません"
+          }
+        }
+      }
+    },
+    "Numbered lines" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数字のみの行"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Once a section passes" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "セクションのサイズが次を超えたら"
+          }
+        }
+      }
+    },
+    "Only if it appears within" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先頭からの行数"
+          }
+        }
+      }
+    },
+    "Only include new or changed chapters" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しい話・更新された話のみ含める"
+          }
+        }
+      }
+    },
+    "Only make a book when something changed" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新があったときだけ本を作る"
+          }
+        }
+      }
+    },
+    "Only the latest chapters" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最新の話のみ"
+          }
+        }
+      }
+    },
+    "Open" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開く"
+          }
+        }
+      }
+    },
+    "Open Web Page" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Webページを開く"
+          }
+        }
+      }
+    },
+    "Opening lines of the text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本文の先頭行"
+          }
+        }
+      }
+    },
+    "Optional" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "省略可"
+          }
+        }
+      }
+    },
+    "Overlay the mark" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記号を重ねる"
+          }
+        }
+      }
+    },
+    "Own page if at least" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "単ページ化するサイズ"
+          }
+        }
+      }
+    },
+    "Page margins (@page)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ページ余白（@page）"
+          }
+        }
+      }
+    },
+    "Page number height" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ノンブルの高さ"
+          }
+        }
+      }
+    },
+    "Pages" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ページ"
+          }
+        }
+      }
+    },
+    "Pages follow the image order in the archive." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ページはアーカイブ内の画像の順に並びます。"
+          }
+        }
+      }
+    },
+    "Paste a Link" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リンクをペースト"
+          }
+        }
+      }
+    },
+    "Paste a web novel or Aozora Bunko link" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web小説または青空文庫のリンクをペースト"
+          }
+        }
+      }
+    },
+    "Pattern" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターン"
+          }
+        }
+      }
+    },
+    "Picture book" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像のみの本"
+          }
+        }
+      }
+    },
+    "Placement" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置"
+          }
+        }
+      }
+    },
+    "Position" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "位置"
+          }
+        }
+      }
+    },
+    "Prefer “[Author] Title” from the file name" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名の「[著者] タイトル」を優先"
+          }
+        }
+      }
+    },
+    "Problems only" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "問題のみ"
+          }
+        }
+      }
+    },
+    "Processing" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像処理"
+          }
+        }
+      }
+    },
+    "Profile %lld" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロファイル %lld"
+          }
+        }
+      }
+    },
+    "Profiles" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロファイル"
+          }
+        }
+      }
+    },
+    "Profiles are saved as AozoraEpub3 .ini files, so they can move between the two apps." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロファイルはAozoraEpub3の.iniファイルとして保存されるので、両方のアプリで使えます。"
+          }
+        }
+      }
+    },
+    "Publisher" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出版社"
+          }
+        }
+      }
+    },
+    "Push to next line (Sony Reader)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "次の行へ送る（Sony Reader）"
+          }
+        }
+      }
+    },
+    "Put a replace.txt (tab-separated: character, replacement) in the app's support folder to swap characters during conversion." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリのサポートフォルダにreplace.txt（タブ区切り：文字、置換後）を置くと、変換時に文字を置き換えます。"
+          }
+        }
+      }
+    },
+    "Re-read" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再読み込み"
+          }
+        }
+      }
+    },
+    "Read from" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み取り"
+          }
+        }
+      }
+    },
+    "Read the title and author again from the top of the text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本文の先頭からタイトルと著者をもう一度読み取ります"
+          }
+        }
+      }
+    },
+    "Reader screen" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端末の画面"
+          }
+        }
+      }
+    },
+    "Reading (ふりがな)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み（ふりがな）"
+          }
+        }
+      }
+    },
+    "Reading the text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テキストの読み込み"
+          }
+        }
+      }
+    },
+    "Reading…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み込み中…"
+          }
+        }
+      }
+    },
+    "Ready for review" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認待ち"
+          }
+        }
+      }
+    },
+    "Regular expression" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正規表現"
+          }
+        }
+      }
+    },
+    "Remember the cover chosen for each file" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルごとに選んだ表紙を記憶"
+          }
+        }
+      }
+    },
+    "Remove from Shelf" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本棚から外す"
+          }
+        }
+      }
+    },
+    "Remove page numbers" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ノンブルを除去"
+          }
+        }
+      }
+    },
+    "Remove white margins" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白い余白を取り除く"
+          }
+        }
+      }
+    },
+    "Replace files that already exist" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "既存のファイルを上書き"
+          }
+        }
+      }
+    },
+    "Reset" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リセット"
+          }
+        }
+      }
+    },
+    "Reset All Settings…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての設定をリセット…"
+          }
+        }
+      }
+    },
+    "Reset every setting to the defaults?" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての設定を初期値に戻しますか？"
+          }
+        }
+      }
+    },
+    "Reveal" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示"
+          }
+        }
+      }
+    },
+    "Review Before Converting" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変換前に確認"
+          }
+        }
+      }
+    },
+    "Review every book" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎回確認する"
+          }
+        }
+      }
+    },
+    "Review title, cover and contents before converting" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変換前にタイトル・表紙・目次を確認"
+          }
+        }
+      }
+    },
+    "Right" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右"
+          }
+        }
+      }
+    },
+    "Rotate left" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左に回転"
+          }
+        }
+      }
+    },
+    "Rotate right" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右に回転"
+          }
+        }
+      }
+    },
+    "Rotate wide images on tall screens" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "縦長の画面で横長の画像を回転"
+          }
+        }
+      }
+    },
+    "Same as macOS" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOSと同じ"
+          }
+        }
+      }
+    },
+    "Save Current Settings" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在の設定を保存"
+          }
+        }
+      }
+    },
+    "Save Here" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここに保存"
+          }
+        }
+      }
+    },
+    "Save books" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存先"
+          }
+        }
+      }
+    },
+    "Save the current settings to switch between setups, like one per reader." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在の設定を保存しておくと、端末ごとなどに切り替えられます。"
+          }
+        }
+      }
+    },
+    "Saved settings" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存した設定"
+          }
+        }
+      }
+    },
+    "Saves as" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存名"
+          }
+        }
+      }
+    },
+    "Saving" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
+        }
+      }
+    },
+    "Scale" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "倍率"
+          }
+        }
+      }
+    },
+    "Scale images relative to the screen" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画面に合わせて画像を拡大縮小"
+          }
+        }
+      }
+    },
+    "Screen" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画面"
+          }
+        }
+      }
+    },
+    "Set 2-digit numbers and !? upright" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2桁の数字と!?を縦中横にする"
+          }
+        }
+      }
+    },
+    "Shift_JIS (Aozora Bunko standard)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shift_JIS（青空文庫の標準）"
+          }
+        }
+      }
+    },
+    "Shorten runs of empty lines by" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連続する空行を減らす"
+          }
+        }
+      }
+    },
+    "Show Activity" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクティビティを表示"
+          }
+        }
+      }
+    },
+    "Show Original in Finder" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元のファイルをFinderで表示"
+          }
+        }
+      }
+    },
+    "Show Profiles Folder" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロファイルのフォルダを表示"
+          }
+        }
+      }
+    },
+    "Show Support Folder" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポートフォルダを表示"
+          }
+        }
+      }
+    },
+    "Show as ruby" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ルビで表示"
+          }
+        }
+      }
+    },
+    "Show as small text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小書きで表示"
+          }
+        }
+      }
+    },
+    "Show bold (太字) as bold gothic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "太字を太字ゴシックで表示"
+          }
+        }
+      }
+    },
+    "Show conversion notes and warnings" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変換時のメモと警告を表示"
+          }
+        }
+      }
+    },
+    "Show gothic (ゴシック体) as bold gothic" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴシック体を太字ゴシックで表示"
+          }
+        }
+      }
+    },
+    "Show in Finder" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finderで表示"
+          }
+        }
+      }
+    },
+    "Shrink images taller than" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高さが次を超える画像を縮小"
+          }
+        }
+      }
+    },
+    "Shrink images wider than" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "幅が次を超える画像を縮小"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スキップ"
+          }
+        }
+      }
+    },
+    "Skip runs of headings (a contents list inside the text)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連続する見出しを除外（本文中の目次など）"
+          }
+        }
+      }
+    },
+    "Skipped" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スキップ"
+          }
+        }
+      }
+    },
+    "Skipped: click for why" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スキップ：クリックで理由を表示"
+          }
+        }
+      }
+    },
+    "Spacing" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空白と改行"
+          }
+        }
+      }
+    },
+    "Split after" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分割サイズ"
+          }
+        }
+      }
+    },
+    "Split at empty lines" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空行で分割"
+          }
+        }
+      }
+    },
+    "Split before headings" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見出しの前で分割"
+          }
+        }
+      }
+    },
+    "Split long sections" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "長いセクションを分割"
+          }
+        }
+      }
+    },
+    "Splitting into files" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル分割"
+          }
+        }
+      }
+    },
+    "Stop All" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべて中止"
+          }
+        }
+      }
+    },
+    "Stopped." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中止しました。"
+          }
+        }
+      }
+    },
+    "Style" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スタイル"
+          }
+        }
+      }
+    },
+    "Supported sites" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "対応サイト"
+          }
+        }
+      }
+    },
+    "Table of Contents" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目次"
+          }
+        }
+      }
+    },
+    "Table of contents" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目次"
+          }
+        }
+      }
+    },
+    "Table of contents page" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目次ページ"
+          }
+        }
+      }
+    },
+    "Text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本文"
+          }
+        }
+      }
+    },
+    "Text encoding" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字コード"
+          }
+        }
+      }
+    },
+    "Text margins (html, for Sony Reader)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本文余白（html、Sony Reader用）"
+          }
+        }
+      }
+    },
+    "That doesn't look like a link to a web novel or an Aozora Bunko file." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web小説や青空文庫のファイルへのリンクではないようです。"
+          }
+        }
+      }
+    },
+    "The first line after a page break" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "改ページ後の最初の行"
+          }
+        }
+      }
+    },
+    "The first line is the publisher" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先頭行は出版社"
+          }
+        }
+      }
+    },
+    "The new language shows the next time the app opens." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しい言語は次回の起動時から表示されます。"
+          }
+        }
+      }
+    },
+    "Then add back" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "残す余白"
+          }
+        }
+      }
+    },
+    "This preset makes .mobi files" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このプリセットは.mobiを出力します"
+          }
+        }
+      }
+    },
+    "Title" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトル"
+          }
+        }
+      }
+    },
+    "Title and author" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトルと著者"
+          }
+        }
+      }
+    },
+    "Title and author only (2 lines)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表題＋著者のみ（2行）"
+          }
+        }
+      }
+    },
+    "Title lines" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトル行"
+          }
+        }
+      }
+    },
+    "Title only (1 line)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表題のみ（1行）"
+          }
+        }
+      }
+    },
+    "Title page" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表題ページ"
+          }
+        }
+      }
+    },
+    "Title page style" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表題ページの形式"
+          }
+        }
+      }
+    },
+    "Title, subtitle, author" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表題 → 著者名（副題優先）"
+          }
+        }
+      }
+    },
+    "Title, then author" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表題 → 著者名"
+          }
+        }
+      }
+    },
+    "Toggle all: %@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべて切り替え：%@"
+          }
+        }
+      }
+    },
+    "Top" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上"
+          }
+        }
+      }
+    },
+    "Top / left" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上／左"
+          }
+        }
+      }
+    },
+    "Top and bottom" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上下"
+          }
+        }
+      }
+    },
+    "Trim scanned margins" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スキャン画像の余白除去"
+          }
+        }
+      }
+    },
+    "Try Again" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もう一度試す"
+          }
+        }
+      }
+    },
+    "Turn off to convert straight away next time" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オフにすると次から確認せずに変換します"
+          }
+        }
+      }
+    },
+    "Type" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字"
+          }
+        }
+      }
+    },
+    "UTF-8" : {
+      "shouldTranslate" : false
+    },
+    "Unit" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "単位"
+          }
+        }
+      }
+    },
+    "Up to (left + right)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大（左右合計）"
+          }
+        }
+      }
+    },
+    "Up to (top + bottom)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大（上下合計）"
+          }
+        }
+      }
+    },
+    "Updates" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新"
+          }
+        }
+      }
+    },
+    "Upright digits in vertical text (縦中横)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "縦中横"
+          }
+        }
+      }
+    },
+    "Use" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使う"
+          }
+        }
+      }
+    },
+    "Use File Name" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名を使用"
+          }
+        }
+      }
+    },
+    "Use glyph fonts" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "グリフフォントを使う"
+          }
+        }
+      }
+    },
+    "Use “[Author] Title” from the file name" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名の「[著者] タイトル」を使います"
+          }
+        }
+      }
+    },
+    "User agent (optional)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーザーエージェント（省略可）"
+          }
+        }
+      }
+    },
+    "Vertical" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "縦書き"
+          }
+        }
+      }
+    },
+    "Vertical text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "縦書き"
+          }
+        }
+      }
+    },
+    "Vertical text (tategaki). Click for horizontal." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "縦書き。クリックで横書きにします。"
+          }
+        }
+      }
+    },
+    "Vertical 縦書き" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "縦書き"
+          }
+        }
+      }
+    },
+    "Wait between pages" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ページ取得の間隔"
+          }
+        }
+      }
+    },
+    "Waiting…" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "待機中…"
+          }
+        }
+      }
+    },
+    "Web" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web"
+          }
+        }
+      }
+    },
+    "Where finished books are saved" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成した本の保存先"
+          }
+        }
+      }
+    },
+    "Width" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "幅"
+          }
+        }
+      }
+    },
+    "Within the text" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本文内"
+          }
+        }
+      }
+    },
+    "Writing direction" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本文の向き"
+          }
+        }
+      }
+    },
+    "You skipped this book." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この本はスキップされました。"
+          }
+        }
+      }
+    },
+    "Your pattern" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "独自パターン"
+          }
+        }
+      }
+    },
+    "chapters" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "話"
+          }
+        }
+      }
+    },
+    "characters" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字"
+          }
+        }
+      }
+    },
+    "em (字)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字（em）"
+          }
+        }
+      }
+    },
+    "hours as new" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "時間以内に取得した話"
+          }
+        }
+      }
+    },
+    "kindlegen found. Note Amazon now prefers EPUB via Send to Kindle." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kindlegenが見つかりました。なお、現在AmazonはSend to KindleでのEPUBを推奨しています。"
+          }
+        }
+      }
+    },
+    "kindlegen wasn't found. Install Kindle Previewer, or use .epub: Send to Kindle accepts EPUB files." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kindlegenが見つかりません。Kindle Previewerをインストールするか、.epubを使ってください（Send to KindleはEPUBに対応しています）。"
+          }
+        }
+      }
+    },
+    "line %lld" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld行目"
+          }
+        }
+      }
+    },
+    "lines (0 = anywhere)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "行以内（0 = 制限なし）"
+          }
+        }
+      }
+    },
+    "px" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        }
+      }
+    },
+    "seconds" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "秒"
+          }
+        }
+      }
+    },
+    "×" : {
+      "shouldTranslate" : false
+    },
+    "…also 3-digit numbers" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…3桁の数字も"
+          }
+        }
+      }
+    },
+    "…also a single ! or ?" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…単独の!や?も"
+          }
+        }
+      }
+    },
+    "…also single digits" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…1桁の数字も"
+          }
+        }
+      }
+    },
+    "…including same-line headings (同行見出し)" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…同行見出しも含める"
+          }
+        }
+      }
+    },
+    "…only the newest run of them" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…最新の連続した話のみ"
+          }
+        }
+      }
+    },
+    "…or wider than" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…または幅が"
+          }
+        }
+      }
+    },
+    "横書き" : {
+      "shouldTranslate" : false
+    },
+    "縦書き" : {
+      "shouldTranslate" : false
+    },
+    "見出し headings" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見出し"
+          }
+        }
+      }
+    },
+    "［＃「○○」に「××」の注記］" : {
+      "shouldTranslate" : false
+    },
+    "［＃中見出し］" : {
+      "shouldTranslate" : false
+    },
+    "［＃大見出し］" : {
+      "shouldTranslate" : false
+    },
+    "［＃小見出し］" : {
+      "shouldTranslate" : false
+    },
+    "［＃見出し］" : {
+      "shouldTranslate" : false
+    }
+  },
+  "version" : "1.0"
+}
